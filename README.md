@@ -1,2 +1,32 @@
-# Tech-Blog-Website
-he Tech Blog Website is a modern, fast, and SEO-optimized web application built using Next.js (App Router), TypeScript, and Tailwind CSS. The goal of this project is to demonstrate strong frontend fundamentals, clean architecture, performance optimization, accessibility, and real-world SEO best practices.
+# SEO Optimized Tech Blog
+
+## Tech Stack
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- Vercel
+
+## Features
+- Search across title, description & content
+- Category filtering
+- SEO meta tags & JSON-LD
+- Responsive layout
+- Article modal
+
+## SEO Strategy
+- Meta tags for search engines & social sharing
+- Semantic HTML5 structure
+- JSON-LD for WebSite & Article schema
+- Next.js Image optimization
+
+## Performance
+Optimized using lazy loading, clean components, and Lighthouse testing.
+
+## Setup
+```bash
+npm install
+npm run dev
+```
+
+## Deployment
+Deploy easily on Vercel.
